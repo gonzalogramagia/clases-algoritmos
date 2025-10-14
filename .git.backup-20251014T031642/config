@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "set-url"]
+	url = https://github.com/gonzalogramagia/algoritmos.git
+	fetch = +refs/heads/*:refs/remotes/set-url/*
+[remote "origin"]
+	url = https://github.com/gonzalogramagia/clases-algoritmos
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

@@ -1,0 +1,30 @@
+{
+  "name": "Algortimos I",
+  "bio": "Clases Virtuales",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://clases.algoritmos1.com",
+  "blog": true,
+  "iconLinks": [],
+  "customLinks": [
+    {
+      "id": "1728534585739",
+      "title": "🎥 Todas las Clases Teóricas de Franco Luque",
+      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IySjKob9nqV9xzlQlfHf1T_"
+    },
+    {
+      "id": "1728534585740",
+      "title": "🎥 Clases Teóricas de Programación Imperativa (Franco Luque)",
+      "url": "https://www.youtube.com/playlist?list=PL-0_mv1k_D3LdKe_Rcv47_TYNw6zB6VaO"
+    },
+    {
+      "id": "1728534585741",
+      "title": "🎥 Clases Prácticas de Programación Imperativa (Profes varios)",
+      "url": "https://www.youtube.com/playlist?list=PL-0_mv1k_D3IJTWbqciUQ1M7Vyuh1EDT0"
+    },
+    {
+      "id": "1728534585742",
+      "title": "🎥 Clases del LAB de Programación Imperativa (Ale Gadea)",
+      "url": "https://www.youtube.com/playlist?list=PL-0_mv1k_D3Jhqnl3zVHismZaoWGU4dS6"
+    }
+  ]
+}
